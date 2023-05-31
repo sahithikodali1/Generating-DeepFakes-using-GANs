@@ -1,2 +1,2 @@
-# Genrating-DeepFakes-using-GANs
-Generation fo Deepfake images using GANs
+# Generating-DeepFakes-using-GANs
+Generation of Deepfake images using GANs
